@@ -1,0 +1,15 @@
+{
+  "name": "jekyll-starter",
+  "scripts": {
+    "start": "./bin/dev"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "vite-plugin-ruby": "^3.2.2"
+  },
+  "dependencies": {
+    "solid-element": "^1.7.1",
+    "solid-js": "^1.7.12",
+    "vite-plugin-solid": "^2.7.0"
+  }
+}
